@@ -1,0 +1,101 @@
+year,tradeflow,reportercode,reporter,reporteriso,partner,partneriso,commoditycode,commodity,netweightkg,tradevalueus
+2017,Export,410,Rep. of Korea,KOR,World,WLD,854110,"Electrical apparatus; diodes, other than photosensitive or light-emitting diodes (LED)",1273003,274675832
+2017,Export,490,Taiwan,TWN,World,WLD,854110,"Electrical apparatus; diodes, other than photosensitive or light-emitting diodes (LED)",5476544,1129168214
+2018,Export,410,Rep. of Korea,KOR,World,WLD,854110,"Electrical apparatus; diodes, other than photosensitive or light-emitting diodes (LED)",1280011,318213277
+2018,Export,490,Taiwan,TWN,World,WLD,854110,"Electrical apparatus; diodes, other than photosensitive or light-emitting diodes (LED)",5307883,1093471612
+2019,Export,410,Rep. of Korea,KOR,World,WLD,854110,"Electrical apparatus; diodes, other than photosensitive or light-emitting diodes (LED)",1650907,297145879
+2019,Export,490,Taiwan,TWN,World,WLD,854110,"Electrical apparatus; diodes, other than photosensitive or light-emitting diodes (LED)",4541950,939357247
+2020,Export,410,Rep. of Korea,KOR,World,WLD,854110,"Electrical apparatus; diodes, other than photosensitive or light-emitting diodes (LED)",1462736,259093336
+2020,Export,490,Taiwan,TWN,World,WLD,854110,"Electrical apparatus; diodes, other than photosensitive or light-emitting diodes (LED)",4139509,957949012
+2017,Export,410,Rep. of Korea,KOR,World,WLD,854121,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of less than 1W",683873,280703685
+2017,Export,490,Taiwan,TWN,World,WLD,854121,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of less than 1W",242081,83536473
+2018,Export,410,Rep. of Korea,KOR,World,WLD,854121,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of less than 1W",671445,303777022
+2018,Export,490,Taiwan,TWN,World,WLD,854121,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of less than 1W",282333,88262048
+2019,Export,410,Rep. of Korea,KOR,World,WLD,854121,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of less than 1W",681400,318562638
+2019,Export,490,Taiwan,TWN,World,WLD,854121,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of less than 1W",271605,82983320
+2020,Export,410,Rep. of Korea,KOR,World,WLD,854121,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of less than 1W",650185,301946030
+2020,Export,490,Taiwan,TWN,World,WLD,854121,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of less than 1W",262536,88082088
+2017,Export,410,Rep. of Korea,KOR,World,WLD,854129,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of 1W or more",2055594,495855889
+2017,Export,490,Taiwan,TWN,World,WLD,854129,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of 1W or more",1688163,574443528
+2018,Export,410,Rep. of Korea,KOR,World,WLD,854129,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of 1W or more",2159714,631745771
+2018,Export,490,Taiwan,TWN,World,WLD,854129,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of 1W or more",1867942,731897725
+2019,Export,410,Rep. of Korea,KOR,World,WLD,854129,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of 1W or more",1878605,663174149
+2019,Export,490,Taiwan,TWN,World,WLD,854129,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of 1W or more",1611173,709471835
+2020,Export,410,Rep. of Korea,KOR,World,WLD,854129,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of 1W or more",1548402,670712493
+2020,Export,490,Taiwan,TWN,World,WLD,854129,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of 1W or more",1869167,827426144
+2017,Export,410,Rep. of Korea,KOR,World,WLD,854130,"Electrical apparatus; thyristors, diacs and triacs, other than photosensitive devices",34898,7244531
+2017,Export,490,Taiwan,TWN,World,WLD,854130,"Electrical apparatus; thyristors, diacs and triacs, other than photosensitive devices",108851,18954370
+2018,Export,410,Rep. of Korea,KOR,World,WLD,854130,"Electrical apparatus; thyristors, diacs and triacs, other than photosensitive devices",52011,6940772
+2018,Export,490,Taiwan,TWN,World,WLD,854130,"Electrical apparatus; thyristors, diacs and triacs, other than photosensitive devices",116699,21020543
+2019,Export,410,Rep. of Korea,KOR,World,WLD,854130,"Electrical apparatus; thyristors, diacs and triacs, other than photosensitive devices",,4873898
+2019,Export,490,Taiwan,TWN,World,WLD,854130,"Electrical apparatus; thyristors, diacs and triacs, other than photosensitive devices",121106,23902366
+2020,Export,410,Rep. of Korea,KOR,World,WLD,854130,"Electrical apparatus; thyristors, diacs and triacs, other than photosensitive devices",7485,2617086
+2020,Export,490,Taiwan,TWN,World,WLD,854130,"Electrical apparatus; thyristors, diacs and triacs, other than photosensitive devices",85039,24932598
+2017,Export,410,Rep. of Korea,KOR,World,WLD,854140,"Electrical apparatus; photosensitive, including photovoltaic cells, whether or not assembled in modules or made up into panels, light-emitting diodes (LED)",247828601,4613521504
+2017,Export,490,Taiwan,TWN,World,WLD,854140,"Electrical apparatus; photosensitive, including photovoltaic cells, whether or not assembled in modules or made up into panels, light-emitting diodes (LED)",49944918,4414667787
+2018,Export,410,Rep. of Korea,KOR,World,WLD,854140,"Electrical apparatus; photosensitive, including photovoltaic cells, whether or not assembled in modules or made up into panels, light-emitting diodes (LED)",231105949,4307645038
+2018,Export,490,Taiwan,TWN,World,WLD,854140,"Electrical apparatus; photosensitive, including photovoltaic cells, whether or not assembled in modules or made up into panels, light-emitting diodes (LED)",37063935,3112050519
+2019,Export,410,Rep. of Korea,KOR,World,WLD,854140,"Electrical apparatus; photosensitive, including photovoltaic cells, whether or not assembled in modules or made up into panels, light-emitting diodes (LED)",212366729,3512495941
+2019,Export,490,Taiwan,TWN,World,WLD,854140,"Electrical apparatus; photosensitive, including photovoltaic cells, whether or not assembled in modules or made up into panels, light-emitting diodes (LED)",20903667,2058364418
+2020,Export,410,Rep. of Korea,KOR,World,WLD,854140,"Electrical apparatus; photosensitive, including photovoltaic cells, whether or not assembled in modules or made up into panels, light-emitting diodes (LED)",201653654,3110876144
+2020,Export,490,Taiwan,TWN,World,WLD,854140,"Electrical apparatus; photosensitive, including photovoltaic cells, whether or not assembled in modules or made up into panels, light-emitting diodes (LED)",12237760,1836325723
+2017,Export,410,Rep. of Korea,KOR,World,WLD,854150,"Electrical apparatus; photosensitive semiconductor devices n.e.c. in heading no. 8541, including photovoltaic cells, whether or not assembled in modules or made up into panels",117321,227972206
+2017,Export,490,Taiwan,TWN,World,WLD,854150,"Electrical apparatus; photosensitive semiconductor devices n.e.c. in heading no. 8541, including photovoltaic cells, whether or not assembled in modules or made up into panels",21399,12552061
+2018,Export,410,Rep. of Korea,KOR,World,WLD,854150,"Electrical apparatus; photosensitive semiconductor devices n.e.c. in heading no. 8541, including photovoltaic cells, whether or not assembled in modules or made up into panels",124096,227976470
+2018,Export,490,Taiwan,TWN,World,WLD,854150,"Electrical apparatus; photosensitive semiconductor devices n.e.c. in heading no. 8541, including photovoltaic cells, whether or not assembled in modules or made up into panels",28339,15303838
+2019,Export,410,Rep. of Korea,KOR,World,WLD,854150,"Electrical apparatus; photosensitive semiconductor devices n.e.c. in heading no. 8541, including photovoltaic cells, whether or not assembled in modules or made up into panels",145992,242838961
+2019,Export,490,Taiwan,TWN,World,WLD,854150,"Electrical apparatus; photosensitive semiconductor devices n.e.c. in heading no. 8541, including photovoltaic cells, whether or not assembled in modules or made up into panels",36731,18706822
+2020,Export,410,Rep. of Korea,KOR,World,WLD,854150,"Electrical apparatus; photosensitive semiconductor devices n.e.c. in heading no. 8541, including photovoltaic cells, whether or not assembled in modules or made up into panels",175798,291511928
+2020,Export,490,Taiwan,TWN,World,WLD,854150,"Electrical apparatus; photosensitive semiconductor devices n.e.c. in heading no. 8541, including photovoltaic cells, whether or not assembled in modules or made up into panels",58199,35345340
+2017,Export,410,Rep. of Korea,KOR,World,WLD,854160,Crystals; mounted piezo-electric,369804,71715932
+2017,Export,490,Taiwan,TWN,World,WLD,854160,Crystals; mounted piezo-electric,542948,615556484
+2018,Export,410,Rep. of Korea,KOR,World,WLD,854160,Crystals; mounted piezo-electric,472891,78422616
+2018,Export,490,Taiwan,TWN,World,WLD,854160,Crystals; mounted piezo-electric,499853,584506870
+2019,Export,410,Rep. of Korea,KOR,World,WLD,854160,Crystals; mounted piezo-electric,377413,73414786
+2019,Export,490,Taiwan,TWN,World,WLD,854160,Crystals; mounted piezo-electric,427368,536767396
+2020,Export,410,Rep. of Korea,KOR,World,WLD,854160,Crystals; mounted piezo-electric,297187,75434282
+2020,Export,490,Taiwan,TWN,World,WLD,854160,Crystals; mounted piezo-electric,437349,698238631
+2017,Export,410,Rep. of Korea,KOR,World,WLD,854190,"Electrical apparatus; parts for diodes, transistors and similar semiconductor devices and photosensitive semiconductor devices",4528118,217728746
+2017,Export,490,Taiwan,TWN,World,WLD,854190,"Electrical apparatus; parts for diodes, transistors and similar semiconductor devices and photosensitive semiconductor devices",11188907,373831140
+2018,Export,410,Rep. of Korea,KOR,World,WLD,854190,"Electrical apparatus; parts for diodes, transistors and similar semiconductor devices and photosensitive semiconductor devices",3598258,139839262
+2018,Export,490,Taiwan,TWN,World,WLD,854190,"Electrical apparatus; parts for diodes, transistors and similar semiconductor devices and photosensitive semiconductor devices",11231676,388407052
+2019,Export,410,Rep. of Korea,KOR,World,WLD,854190,"Electrical apparatus; parts for diodes, transistors and similar semiconductor devices and photosensitive semiconductor devices",5183064,124754164
+2019,Export,490,Taiwan,TWN,World,WLD,854190,"Electrical apparatus; parts for diodes, transistors and similar semiconductor devices and photosensitive semiconductor devices",9247628,328728511
+2020,Export,410,Rep. of Korea,KOR,World,WLD,854190,"Electrical apparatus; parts for diodes, transistors and similar semiconductor devices and photosensitive semiconductor devices",4077373,143195427
+2020,Export,490,Taiwan,TWN,World,WLD,854190,"Electrical apparatus; parts for diodes, transistors and similar semiconductor devices and photosensitive semiconductor devices",9064140,334934054
+2017,Export,410,Rep. of Korea,KOR,World,WLD,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",6359139,21359845572
+2017,Export,490,Taiwan,TWN,World,WLD,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",1340499,2448114782
+2018,Export,410,Rep. of Korea,KOR,World,WLD,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",7010842,22095020467
+2018,Export,490,Taiwan,TWN,World,WLD,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",1871090,4680547126
+2019,Export,410,Rep. of Korea,KOR,World,WLD,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",6661873,20677631144
+2019,Export,490,Taiwan,TWN,World,WLD,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",2277585,6135617748
+2020,Export,410,Rep. of Korea,KOR,World,WLD,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",7202098,23516687114
+2020,Export,490,Taiwan,TWN,World,WLD,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",2749128,9838859812
+2017,Export,410,Rep. of Korea,KOR,World,WLD,854232,Electronic integrated circuits; memories,2292969,60506907883
+2017,Export,490,Taiwan,TWN,World,WLD,854232,Electronic integrated circuits; memories,4622344,10420049059
+2018,Export,410,Rep. of Korea,KOR,World,WLD,854232,Electronic integrated circuits; memories,2409438,83048245976
+2018,Export,490,Taiwan,TWN,World,WLD,854232,Electronic integrated circuits; memories,3922345,11420810233
+2019,Export,410,Rep. of Korea,KOR,World,WLD,854232,Electronic integrated circuits; memories,2315104,53161754430
+2019,Export,490,Taiwan,TWN,World,WLD,854232,Electronic integrated circuits; memories,3681847,11831818126
+2020,Export,410,Rep. of Korea,KOR,World,WLD,854232,Electronic integrated circuits; memories,2904294,52359154106
+2020,Export,490,Taiwan,TWN,World,WLD,854232,Electronic integrated circuits; memories,5338957,17522432445
+2016,Export,410,Rep. of Korea,KOR,World,WLD,854110,"Electrical apparatus; diodes, other than photosensitive or light emitting diodes",1239137,206381350
+2016,Export,490,Taiwan,TWN,World,WLD,854110,"Electrical apparatus; diodes, other than photosensitive or light emitting diodes",5088444,1209524209
+2016,Export,410,Rep. of Korea,KOR,World,WLD,854121,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of less than 1W",675440,261018382
+2016,Export,490,Taiwan,TWN,World,WLD,854121,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of less than 1W",222055,80428186
+2016,Export,410,Rep. of Korea,KOR,World,WLD,854129,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of 1W or more",1821721,432823922
+2016,Export,490,Taiwan,TWN,World,WLD,854129,"Electrical apparatus; transistors, (other than photosensitive), with a dissipation rate of 1W or more",1590078,518036601
+2016,Export,410,Rep. of Korea,KOR,World,WLD,854130,"Electrical apparatus; thyristors, diacs and triacs, other than photosensitive devices",14819,1745567
+2016,Export,490,Taiwan,TWN,World,WLD,854130,"Electrical apparatus; thyristors, diacs and triacs, other than photosensitive devices",81508,13652476
+2016,Export,410,Rep. of Korea,KOR,World,WLD,854140,"Electrical apparatus; photosensitive, including photovoltaic cells, whether or not assembled in modules or made up into panels, light emitting diodes",197458915,4163702600
+2016,Export,490,Taiwan,TWN,World,WLD,854140,"Electrical apparatus; photosensitive, including photovoltaic cells, whether or not assembled in modules or made up into panels, light emitting diodes",62659111,5093793471
+2016,Export,410,Rep. of Korea,KOR,World,WLD,854150,"Electrical apparatus; photosensitive semiconductor devices n.e.c. in heading no. 8541, including photovoltaic cells, whether or not assembled in modules or made up into panels",110373,213342331
+2016,Export,490,Taiwan,TWN,World,WLD,854150,"Electrical apparatus; photosensitive semiconductor devices n.e.c. in heading no. 8541, including photovoltaic cells, whether or not assembled in modules or made up into panels",29595,17025032
+2016,Export,410,Rep. of Korea,KOR,World,WLD,854160,Crystals; mounted piezo-electric,374052,66369671
+2016,Export,490,Taiwan,TWN,World,WLD,854160,Crystals; mounted piezo-electric,558076,564869222
+2016,Export,410,Rep. of Korea,KOR,World,WLD,854190,"Electrical apparatus; parts for diodes, transistors and similar semiconductor devices and photosensitive semiconductor devices",5390683,331375981
+2016,Export,490,Taiwan,TWN,World,WLD,854190,"Electrical apparatus; parts for diodes, transistors and similar semiconductor devices and photosensitive semiconductor devices",10874791,353870964
+2016,Export,410,Rep. of Korea,KOR,World,WLD,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",5366738,17065771792
+2016,Export,490,Taiwan,TWN,World,WLD,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",1157422,1694977580
+2016,Export,410,Rep. of Korea,KOR,World,WLD,854232,Electronic integrated circuits; memories,2258471,31612307480
+2016,Export,490,Taiwan,TWN,World,WLD,854232,Electronic integrated circuits; memories,4971232,8107314855
