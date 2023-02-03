@@ -1,0 +1,682 @@
+time,partner,commodity,commoditycode,netweight,tradevalueus,t,year
+2018,Belgium,Hydrogene flouride,281111,10,20,2018,2018
+2019,Belgium,Hydrogene flouride,281111,0,1,2019,2019
+2020,Belgium,Hydrogene flouride,281111,0,2,2020,2020
+2019,Brazil,Hydrogene flouride,281111,0,0,2019,2019
+2020,Brazil,Hydrogene flouride,281111,0,0,2020,2020
+2017,Canada,Hydrogene flouride,281111,0,4,2017,2017
+2018,Canada,Hydrogene flouride,281111,0,13,2018,2018
+2019,Canada,Hydrogene flouride,281111,0,18,2019,2019
+2020,Canada,Hydrogene flouride,281111,0,18,2020,2020
+2017,China,Hydrogene flouride,281111,74460,101408,2017,2017
+2018,China,Hydrogene flouride,281111,78165.5,144575,2018,2018
+2019,China,Hydrogene flouride,281111,77722.5,131483,2019,2019
+2020,China,Hydrogene flouride,281111,89511.7,129711,2020,2020
+2017,Germany,Hydrogene flouride,281111,.1,14,2017,2017
+2018,Germany,Hydrogene flouride,281111,.1,14,2018,2018
+2019,Germany,Hydrogene flouride,281111,.1,19,2019,2019
+2020,Germany,Hydrogene flouride,281111,19.5,43,2020,2020
+2019,Hong Kong,Hydrogene flouride,281111,0,0,2019,2019
+2019,Hungary,Hydrogene flouride,281111,0,0,2019,2019
+2017,India,Hydrogene flouride,281111,1713.6,1387,2017,2017
+2018,India,Hydrogene flouride,281111,106.4,162,2018,2018
+2019,India,Hydrogene flouride,281111,256.8,353,2019,2019
+2020,India,Hydrogene flouride,281111,.1,2,2020,2020
+2019,Indonesia,Hydrogene flouride,281111,0,0,2019,2019
+2019,Iran -Islamic Republic of,Hydrogene flouride,281111,0,0,2019,2019
+2017,Japan,Hydrogene flouride,281111,32413.6,45295,2017,2017
+2018,Japan,Hydrogene flouride,281111,41528.5,73141,2018,2018
+2019,Japan,Hydrogene flouride,281111,23888.1,44982,2019,2019
+2020,Japan,Hydrogene flouride,281111,4948,12049,2020,2020
+2017,Malaysia,Hydrogene flouride,281111,0,0,2017,2017
+2018,Malaysia,Hydrogene flouride,281111,0,0,2018,2018
+2019,Malaysia,Hydrogene flouride,281111,0,0,2019,2019
+2020,Malaysia,Hydrogene flouride,281111,0,0,2020,2020
+2017,Mexico,Hydrogene flouride,281111,0,0,2017,2017
+2018,Mexico,Hydrogene flouride,281111,0,0,2018,2018
+2019,Mexico,Hydrogene flouride,281111,0,0,2019,2019
+2017,Philippines,Hydrogene flouride,281111,0,0,2017,2017
+2019,Philippines,Hydrogene flouride,281111,0,0,2019,2019
+2020,Philippines,Hydrogene flouride,281111,0,0,2020,2020
+2017,Qatar,Hydrogene flouride,281111,0,0,2017,2017
+2018,Qatar,Hydrogene flouride,281111,0,0,2018,2018
+2019,Russian Federation,Hydrogene flouride,281111,0,0,2019,2019
+2017,Singapore,Hydrogene flouride,281111,422.4,274,2017,2017
+2018,Singapore,Hydrogene flouride,281111,809.6,656,2018,2018
+2019,Singapore,Hydrogene flouride,281111,563.2,524,2019,2019
+2020,Singapore,Hydrogene flouride,281111,17.6,13,2020,2020
+2017,Spain,Hydrogene flouride,281111,.1,7,2017,2017
+2018,Spain,Hydrogene flouride,281111,.1,7,2018,2018
+2019,Spain,Hydrogene flouride,281111,.1,6,2019,2019
+2020,Spain,Hydrogene flouride,281111,.1,5,2020,2020
+2019,Sweden,Hydrogene flouride,281111,.1,9,2019,2019
+2020,Sweden,Hydrogene flouride,281111,.2,16,2020,2020
+2017,Taiwan,Hydrogene flouride,281111,0,0,2017,2017
+2017,Taiwan,Hydrogene flouride,281111,425.6,778,2017,2017
+2018,Taiwan,Hydrogene flouride,281111,4650.3,9062,2018,2018
+2019,Taiwan,Hydrogene flouride,281111,10350.5,21073,2019,2019
+2019,Taiwan,Hydrogene flouride,281111,0,0,2019,2019
+2020,Taiwan,Hydrogene flouride,281111,4811.7,9143,2020,2020
+2017,United Arab Emirates,Hydrogene flouride,281111,5.2,5,2017,2017
+2017,United Kingdom,Hydrogene flouride,281111,0,3,2017,2017
+2018,United Kingdom,Hydrogene flouride,281111,0,4,2018,2018
+2019,United Kingdom,Hydrogene flouride,281111,0,3,2019,2019
+2020,United Kingdom,Hydrogene flouride,281111,0,2,2020,2020
+2017,United States,Hydrogene flouride,281111,245.2,757,2017,2017
+2018,United States,Hydrogene flouride,281111,24.5,604,2018,2018
+2019,United States,Hydrogene flouride,281111,25.6,1282,2019,2019
+2020,United States,Hydrogene flouride,281111,10.5,1107,2020,2020
+2017,Viet nam,Hydrogene flouride,281111,0,0,2017,2017
+2018,Viet nam,Hydrogene flouride,281111,0,0,2018,2018
+2019,Viet nam,Hydrogene flouride,281111,0,0,2019,2019
+2020,Viet nam,Hydrogene flouride,281111,0,0,2020,2020
+2019,Algeria,Photoresists,370790,0,0,2019,2019
+2017,Argentina,Photoresists,370790,.1,2,2017,2017
+2018,Argentina,Photoresists,370790,0,0,2018,2018
+2019,Argentina,Photoresists,370790,0,0,2019,2019
+2020,Argentina,Photoresists,370790,.1,2,2020,2020
+2017,Australia,Photoresists,370790,0,0,2017,2017
+2018,Australia,Photoresists,370790,0,0,2018,2018
+2019,Australia,Photoresists,370790,.3,17,2019,2019
+2020,Australia,Photoresists,370790,0,2,2020,2020
+2018,Austria,Photoresists,370790,.1,3,2018,2018
+2018,Bahrain,Photoresists,370790,0,0,2018,2018
+2017,Bangladesh,Photoresists,370790,0,0,2017,2017
+2018,Bangladesh,Photoresists,370790,0,0,2018,2018
+2019,Bangladesh,Photoresists,370790,0,0,2019,2019
+2020,Bangladesh,Photoresists,370790,0,0,2020,2020
+2017,Belarus,Photoresists,370790,0,0,2017,2017
+2017,Belgium,Photoresists,370790,894.7,5321,2017,2017
+2018,Belgium,Photoresists,370790,771,3866,2018,2018
+2019,Belgium,Photoresists,370790,747.6,15102,2019,2019
+2020,Belgium,Photoresists,370790,691.3,32414,2020,2020
+2017,Bolivia,Photoresists,370790,0,0,2017,2017
+2017,Botswana,Photoresists,370790,0,0,2017,2017
+2018,Botswana,Photoresists,370790,0,0,2018,2018
+2019,Botswana,Photoresists,370790,0,0,2019,2019
+2020,Botswana,Photoresists,370790,0,0,2020,2020
+2017,Brazil,Photoresists,370790,0,0,2017,2017
+2018,Brazil,Photoresists,370790,8.5,15,2018,2018
+2019,Brazil,Photoresists,370790,10,16,2019,2019
+2020,Brazil,Photoresists,370790,7.2,14,2020,2020
+2017,Cameroon,Photoresists,370790,0,0,2017,2017
+2017,Canada,Photoresists,370790,.1,1,2017,2017
+2018,Canada,Photoresists,370790,.1,7,2018,2018
+2019,Canada,Photoresists,370790,0,13,2019,2019
+2020,Canada,Photoresists,370790,.2,17,2020,2020
+2017,Central African Republic,Photoresists,370790,0,0,2017,2017
+2017,Chile,Photoresists,370790,0,0,2017,2017
+2017,China,Photoresists,370790,2416.6,14636,2017,2017
+2018,China,Photoresists,370790,2381.7,12174,2018,2018
+2019,China,Photoresists,370790,2510.1,9299,2019,2019
+2020,China,Photoresists,370790,1618.7,8609,2020,2020
+2017,Colombia,Photoresists,370790,0,0,2017,2017
+2017,Cote d'Ivoire,Photoresists,370790,0,0,2017,2017
+2020,Cote d'Ivoire,Photoresists,370790,0,0,2020,2020
+2017,Cyprus,Photoresists,370790,0,0,2017,2017
+2019,Cyprus,Photoresists,370790,0,0,2019,2019
+2020,Cyprus,Photoresists,370790,0,0,2020,2020
+2018,Czech Republic,Photoresists,370790,0,0,2018,2018
+2020,Czech Republic,Photoresists,370790,0,0,2020,2020
+2018,Denmark,Photoresists,370790,0,1,2018,2018
+2020,Dominica,Photoresists,370790,0,0,2020,2020
+2017,Egypt,Photoresists,370790,0,0,2017,2017
+2018,Egypt,Photoresists,370790,0,0,2018,2018
+2019,Egypt,Photoresists,370790,0,0,2019,2019
+2017,Estonia,Photoresists,370790,.4,7,2017,2017
+2020,Estonia,Photoresists,370790,.2,9,2020,2020
+2017,Ethiopia,Photoresists,370790,0,0,2017,2017
+2019,Ethiopia,Photoresists,370790,0,0,2019,2019
+2017,France,Photoresists,370790,8.6,248,2017,2017
+2018,France,Photoresists,370790,5,267,2018,2018
+2019,France,Photoresists,370790,6.8,193,2019,2019
+2020,France,Photoresists,370790,11.2,214,2020,2020
+2017,Gabon,Photoresists,370790,0,0,2017,2017
+2018,Gabon,Photoresists,370790,0,0,2018,2018
+2017,Germany,Photoresists,370790,89.2,1350,2017,2017
+2018,Germany,Photoresists,370790,81.2,1541,2018,2018
+2019,Germany,Photoresists,370790,95.3,1485,2019,2019
+2020,Germany,Photoresists,370790,253,2024,2020,2020
+2017,Ghana,Photoresists,370790,0,0,2017,2017
+2018,Ghana,Photoresists,370790,0,0,2018,2018
+2019,Ghana,Photoresists,370790,0,0,2019,2019
+2020,Ghana,Photoresists,370790,0,0,2020,2020
+2020,Greece,Photoresists,370790,0,0,2020,2020
+2018,Guam,Photoresists,370790,0,0,2018,2018
+2018,Guatemala,Photoresists,370790,0,0,2018,2018
+2017,Guinea,Photoresists,370790,0,0,2017,2017
+2018,Guinea,Photoresists,370790,0,0,2018,2018
+2019,Haiti,Photoresists,370790,0,0,2019,2019
+2017,Hong Kong,Photoresists,370790,6.6,351,2017,2017
+2018,Hong Kong,Photoresists,370790,52.6,800,2018,2018
+2019,Hong Kong,Photoresists,370790,27.6,468,2019,2019
+2020,Hong Kong,Photoresists,370790,23.6,1160,2020,2020
+2017,Hungary,Photoresists,370790,0,2,2017,2017
+2017,India,Photoresists,370790,41.5,320,2017,2017
+2018,India,Photoresists,370790,17.1,128,2018,2018
+2019,India,Photoresists,370790,3.9,25,2019,2019
+2020,India,Photoresists,370790,.5,5,2020,2020
+2017,Indonesia,Photoresists,370790,0,0,2017,2017
+2018,Indonesia,Photoresists,370790,0,0,2018,2018
+2019,Indonesia,Photoresists,370790,0,0,2019,2019
+2020,Indonesia,Photoresists,370790,0,1,2020,2020
+2017,Iran -Islamic Republic of,Photoresists,370790,0,0,2017,2017
+2018,Iran -Islamic Republic of,Photoresists,370790,0,0,2018,2018
+2019,Iran -Islamic Republic of,Photoresists,370790,0,0,2019,2019
+2020,Iran -Islamic Republic of,Photoresists,370790,0,0,2020,2020
+2019,Iraq,Photoresists,370790,0,0,2019,2019
+2020,Iraq,Photoresists,370790,0,0,2020,2020
+2017,Ireland,Photoresists,370790,10.5,214,2017,2017
+2018,Ireland,Photoresists,370790,10,232,2018,2018
+2019,Ireland,Photoresists,370790,9.1,289,2019,2019
+2020,Ireland,Photoresists,370790,15.1,377,2020,2020
+2017,Israel,Photoresists,370790,0,0,2017,2017
+2018,Israel,Photoresists,370790,0,0,2018,2018
+2019,Israel,Photoresists,370790,0,0,2019,2019
+2017,Italy,Photoresists,370790,23.2,115,2017,2017
+2018,Italy,Photoresists,370790,60.6,187,2018,2018
+2019,Italy,Photoresists,370790,162.1,323,2019,2019
+2020,Italy,Photoresists,370790,193.3,284,2020,2020
+2017,Japan,Photoresists,370790,2437.9,322650,2017,2017
+2018,Japan,Photoresists,370790,2653.8,398192,2018,2018
+2019,Japan,Photoresists,370790,2596,365338,2019,2019
+2020,Japan,Photoresists,370790,2746,436950,2020,2020
+2020,Jordan,Photoresists,370790,0,0,2020,2020
+2017,Kuwait,Photoresists,370790,0,0,2017,2017
+2018,Kuwait,Photoresists,370790,0,0,2018,2018
+2019,Kuwait,Photoresists,370790,0,0,2019,2019
+2020,Kuwait,Photoresists,370790,0,0,2020,2020
+2019,Lao People's Democratic Republic,Photoresists,370790,0,0,2019,2019
+2020,Lao People's Democratic Republic,Photoresists,370790,0,0,2020,2020
+2017,Latvia,Photoresists,370790,0,0,2017,2017
+2018,Latvia,Photoresists,370790,0,0,2018,2018
+2019,Latvia,Photoresists,370790,0,0,2019,2019
+2019,Lebanon,Photoresists,370790,0,0,2019,2019
+2017,Madagascar,Photoresists,370790,0,0,2017,2017
+2018,Madagascar,Photoresists,370790,0,0,2018,2018
+2017,Malaysia,Photoresists,370790,2.4,46,2017,2017
+2018,Malaysia,Photoresists,370790,4.1,43,2018,2018
+2019,Malaysia,Photoresists,370790,14,167,2019,2019
+2020,Malaysia,Photoresists,370790,19.1,141,2020,2020
+2018,Mexico,Photoresists,370790,0,0,2018,2018
+2020,Mexico,Photoresists,370790,0,0,2020,2020
+2018,Moldova  Republic of,Photoresists,370790,0,0,2018,2018
+2019,Moldova  Republic of,Photoresists,370790,0,0,2019,2019
+2017,Mongolia,Photoresists,370790,0,0,2017,2017
+2018,Mongolia,Photoresists,370790,0,0,2018,2018
+2019,Mongolia,Photoresists,370790,0,0,2019,2019
+2020,Mongolia,Photoresists,370790,0,0,2020,2020
+2017,Mozambique,Photoresists,370790,0,0,2017,2017
+2017,Nepal,Photoresists,370790,0,0,2017,2017
+2018,Nepal,Photoresists,370790,0,0,2018,2018
+2019,Nepal,Photoresists,370790,0,0,2019,2019
+2020,Nepal,Photoresists,370790,0,0,2020,2020
+2017,Netherlands,Photoresists,370790,71.8,1734,2017,2017
+2018,Netherlands,Photoresists,370790,66.40000000000001,1543,2018,2018
+2019,Netherlands,Photoresists,370790,65,1580,2019,2019
+2020,Netherlands,Photoresists,370790,63.1,1351,2020,2020
+2017,New Zealand,Photoresists,370790,0,0,2017,2017
+2018,New Zealand,Photoresists,370790,0,0,2018,2018
+2020,New Zealand,Photoresists,370790,0,0,2020,2020
+2017,Nigeria,Photoresists,370790,0,0,2017,2017
+2020,Nigeria,Photoresists,370790,0,0,2020,2020
+2018,Northern Mariana Islands,Photoresists,370790,0,0,2018,2018
+2019,Northern Mariana Islands,Photoresists,370790,0,0,2019,2019
+2020,Northern Mariana Islands,Photoresists,370790,0,0,2020,2020
+2019,Oman,Photoresists,370790,0,0,2019,2019
+2017,Others,Photoresists,370790,0,0,2017,2017
+2017,Pakistan,Photoresists,370790,0,0,2017,2017
+2020,Palestinian Territory  Occupied,Photoresists,370790,0,0,2020,2020
+2019,Papua New Guinea,Photoresists,370790,0,0,2019,2019
+2020,Papua New Guinea,Photoresists,370790,0,0,2020,2020
+2017,Peru,Photoresists,370790,0,0,2017,2017
+2018,Peru,Photoresists,370790,0,0,2018,2018
+2020,Peru,Photoresists,370790,0,0,2020,2020
+2017,Philippines,Photoresists,370790,.2,3,2017,2017
+2018,Philippines,Photoresists,370790,0,1,2018,2018
+2019,Philippines,Photoresists,370790,0,0,2019,2019
+2020,Philippines,Photoresists,370790,0,0,2020,2020
+2017,Poland,Photoresists,370790,0,0,2017,2017
+2018,Poland,Photoresists,370790,.1,5,2018,2018
+2019,Poland,Photoresists,370790,0,2,2019,2019
+2020,Poland,Photoresists,370790,0,0,2020,2020
+2019,Portugal,Photoresists,370790,0,0,2019,2019
+2019,Qatar,Photoresists,370790,0,0,2019,2019
+2017,Romania,Photoresists,370790,0,0,2017,2017
+2018,Romania,Photoresists,370790,0,0,2018,2018
+2019,Romania,Photoresists,370790,0,0,2019,2019
+2017,Russian Federation,Photoresists,370790,0,0,2017,2017
+2018,Russian Federation,Photoresists,370790,0,0,2018,2018
+2019,Russian Federation,Photoresists,370790,0,0,2019,2019
+2020,Russian Federation,Photoresists,370790,0,0,2020,2020
+2018,Rwanda,Photoresists,370790,0,0,2018,2018
+2018,Saudi Arabia,Photoresists,370790,0,0,2018,2018
+2017,Senegal,Photoresists,370790,0,0,2017,2017
+2018,Senegal,Photoresists,370790,0,0,2018,2018
+2019,Senegal,Photoresists,370790,0,0,2019,2019
+2017,Serbia,Photoresists,370790,0,0,2017,2017
+2018,Serbia,Photoresists,370790,0,0,2018,2018
+2017,Singapore,Photoresists,370790,1368.1,2428,2017,2017
+2018,Singapore,Photoresists,370790,1160.4,2166,2018,2018
+2019,Singapore,Photoresists,370790,1031.6,1921,2019,2019
+2020,Singapore,Photoresists,370790,769.5,1404,2020,2020
+2018,Slovakia,Photoresists,370790,0,0,2018,2018
+2019,Slovakia,Photoresists,370790,0,0,2019,2019
+2020,Slovakia,Photoresists,370790,0,0,2020,2020
+2017,Slovenia,Photoresists,370790,0,0,2017,2017
+2018,Slovenia,Photoresists,370790,0,0,2018,2018
+2019,Slovenia,Photoresists,370790,0,0,2019,2019
+2020,Slovenia,Photoresists,370790,0,0,2020,2020
+2019,South Africa,Photoresists,370790,0,0,2019,2019
+2020,South Africa,Photoresists,370790,0,0,2020,2020
+2017,Spain,Photoresists,370790,24.7,442,2017,2017
+2018,Spain,Photoresists,370790,37.2,554,2018,2018
+2019,Spain,Photoresists,370790,26.1,587,2019,2019
+2020,Spain,Photoresists,370790,22.1,299,2020,2020
+2020,Srilanka,Photoresists,370790,0,0,2020,2020
+2019,Sudan,Photoresists,370790,0,0,2019,2019
+2018,Sweden,Photoresists,370790,0,1,2018,2018
+2020,Sweden,Photoresists,370790,0,0,2020,2020
+2017,Taiwan,Photoresists,370790,0,0,2017,2017
+2017,Taiwan,Photoresists,370790,0,0,2017,2017
+2017,Taiwan,Photoresists,370790,14.9,23,2017,2017
+2017,Taiwan,Photoresists,370790,231.1,1804,2017,2017
+2017,Taiwan,Photoresists,370790,0,0,2017,2017
+2017,Taiwan,Photoresists,370790,0,0,2017,2017
+2017,Taiwan,Photoresists,370790,0,0,2017,2017
+2018,Taiwan,Photoresists,370790,5.8,17,2018,2018
+2018,Taiwan,Photoresists,370790,0,0,2018,2018
+2018,Taiwan,Photoresists,370790,144.5,948,2018,2018
+2018,Taiwan,Photoresists,370790,0,0,2018,2018
+2019,Taiwan,Photoresists,370790,0,4,2019,2019
+2019,Taiwan,Photoresists,370790,0,0,2019,2019
+2019,Taiwan,Photoresists,370790,129.6,1668,2019,2019
+2019,Taiwan,Photoresists,370790,0,0,2019,2019
+2020,Taiwan,Photoresists,370790,0,0,2020,2020
+2020,Taiwan,Photoresists,370790,0,0,2020,2020
+2020,Taiwan,Photoresists,370790,.2,3,2020,2020
+2020,Taiwan,Photoresists,370790,301.4,4627,2020,2020
+2020,Taiwan,Photoresists,370790,0,1,2020,2020
+2019,Ukraine,Photoresists,370790,0,0,2019,2019
+2020,Ukraine,Photoresists,370790,0,0,2020,2020
+2017,United Arab Emirates,Photoresists,370790,0,0,2017,2017
+2018,United Arab Emirates,Photoresists,370790,0,0,2018,2018
+2019,United Arab Emirates,Photoresists,370790,0,0,2019,2019
+2020,United Arab Emirates,Photoresists,370790,0,0,2020,2020
+2017,United Kingdom,Photoresists,370790,16.3,182,2017,2017
+2018,United Kingdom,Photoresists,370790,13.8,100,2018,2018
+2019,United Kingdom,Photoresists,370790,4.2,43,2019,2019
+2020,United Kingdom,Photoresists,370790,2.4,63,2020,2020
+2017,United States,Photoresists,370790,265.1,30871,2017,2017
+2018,United States,Photoresists,370790,270.7,29721,2018,2018
+2019,United States,Photoresists,370790,215.4,29976,2019,2019
+2020,United States,Photoresists,370790,215.9,29074,2020,2020
+2017,Uruguay,Photoresists,370790,0,0,2017,2017
+2018,Uruguay,Photoresists,370790,0,0,2018,2018
+2019,Uruguay,Photoresists,370790,0,0,2019,2019
+2018,Uzbekistan,Photoresists,370790,0,0,2018,2018
+2020,Uzbekistan,Photoresists,370790,0,0,2020,2020
+2017,Viet nam,Photoresists,370790,.1,3,2017,2017
+2018,Viet nam,Photoresists,370790,1,29,2018,2018
+2019,Viet nam,Photoresists,370790,0,0,2019,2019
+2020,Viet nam,Photoresists,370790,.3,5,2020,2020
+2017,Algeria,Flourinated polyimides,392099,0,0,2017,2017
+2018,Algeria,Flourinated polyimides,392099,0,0,2018,2018
+2017,Angola,Flourinated polyimides,392099,0,0,2017,2017
+2018,Angola,Flourinated polyimides,392099,0,0,2018,2018
+2019,Angola,Flourinated polyimides,392099,0,0,2019,2019
+2017,Antigua and Barbuda,Flourinated polyimides,392099,0,0,2017,2017
+2017,Argentina,Flourinated polyimides,392099,0,0,2017,2017
+2018,Argentina,Flourinated polyimides,392099,0,0,2018,2018
+2019,Argentina,Flourinated polyimides,392099,0,0,2019,2019
+2020,Argentina,Flourinated polyimides,392099,0,0,2020,2020
+2017,Armenia,Flourinated polyimides,392099,0,0,2017,2017
+2017,Australia,Flourinated polyimides,392099,.3,21,2017,2017
+2018,Australia,Flourinated polyimides,392099,.9,40,2018,2018
+2019,Australia,Flourinated polyimides,392099,6.1,57,2019,2019
+2020,Australia,Flourinated polyimides,392099,5,34,2020,2020
+2017,Austria,Flourinated polyimides,392099,22.1,583,2017,2017
+2018,Austria,Flourinated polyimides,392099,9.5,341,2018,2018
+2019,Austria,Flourinated polyimides,392099,13.5,523,2019,2019
+2020,Austria,Flourinated polyimides,392099,20.8,1457,2020,2020
+2017,Bahrain,Flourinated polyimides,392099,0,0,2017,2017
+2018,Bahrain,Flourinated polyimides,392099,0,0,2018,2018
+2019,Bahrain,Flourinated polyimides,392099,0,0,2019,2019
+2017,Bangladesh,Flourinated polyimides,392099,0,0,2017,2017
+2018,Bangladesh,Flourinated polyimides,392099,0,0,2018,2018
+2019,Bangladesh,Flourinated polyimides,392099,0,0,2019,2019
+2020,Bangladesh,Flourinated polyimides,392099,0,0,2020,2020
+2020,Belarus,Flourinated polyimides,392099,0,0,2020,2020
+2017,Belgium,Flourinated polyimides,392099,34.7,2110,2017,2017
+2018,Belgium,Flourinated polyimides,392099,37.6,2045,2018,2018
+2019,Belgium,Flourinated polyimides,392099,40.4,2371,2019,2019
+2020,Belgium,Flourinated polyimides,392099,81.3,4375,2020,2020
+2020,Botswana,Flourinated polyimides,392099,0,0,2020,2020
+2017,Brazil,Flourinated polyimides,392099,.3,10,2017,2017
+2018,Brazil,Flourinated polyimides,392099,3.1,157,2018,2018
+2019,Brazil,Flourinated polyimides,392099,3.8,195,2019,2019
+2020,Brazil,Flourinated polyimides,392099,4.4,200,2020,2020
+2017,Bulgaria,Flourinated polyimides,392099,.1,0,2017,2017
+2017,Cambodia,Flourinated polyimides,392099,0,0,2017,2017
+2018,Cambodia,Flourinated polyimides,392099,0,0,2018,2018
+2019,Cambodia,Flourinated polyimides,392099,0,0,2019,2019
+2020,Cambodia,Flourinated polyimides,392099,0,0,2020,2020
+2020,Cameroon,Flourinated polyimides,392099,0,0,2020,2020
+2017,Canada,Flourinated polyimides,392099,.7,36,2017,2017
+2018,Canada,Flourinated polyimides,392099,.6,25,2018,2018
+2019,Canada,Flourinated polyimides,392099,.7,25,2019,2019
+2020,Canada,Flourinated polyimides,392099,.3,63,2020,2020
+2017,Chile,Flourinated polyimides,392099,0,0,2017,2017
+2018,Chile,Flourinated polyimides,392099,0,0,2018,2018
+2019,Chile,Flourinated polyimides,392099,0,0,2019,2019
+2020,Chile,Flourinated polyimides,392099,0,0,2020,2020
+2017,China,Flourinated polyimides,392099,1587,17286,2017,2017
+2018,China,Flourinated polyimides,392099,1468.9,18475,2018,2018
+2019,China,Flourinated polyimides,392099,2351.6,47392,2019,2019
+2020,China,Flourinated polyimides,392099,2242.4,35070,2020,2020
+2017,Colombia,Flourinated polyimides,392099,0,0,2017,2017
+2018,Colombia,Flourinated polyimides,392099,0,0,2018,2018
+2019,Colombia,Flourinated polyimides,392099,0,0,2019,2019
+2020,Colombia,Flourinated polyimides,392099,0,0,2020,2020
+2019,Congo,Flourinated polyimides,392099,0,0,2019,2019
+2018,Congo  The Democratic Republic Of The,Flourinated polyimides,392099,0,0,2018,2018
+2017,Costa Rica,Flourinated polyimides,392099,0,0,2017,2017
+2018,Costa Rica,Flourinated polyimides,392099,0,0,2018,2018
+2019,Costa Rica,Flourinated polyimides,392099,0,0,2019,2019
+2020,Costa Rica,Flourinated polyimides,392099,0,0,2020,2020
+2017,Croatia,Flourinated polyimides,392099,0,0,2017,2017
+2018,Croatia,Flourinated polyimides,392099,0,0,2018,2018
+2019,Croatia,Flourinated polyimides,392099,0,0,2019,2019
+2020,Croatia,Flourinated polyimides,392099,0,0,2020,2020
+2017,Czech Republic,Flourinated polyimides,392099,0,0,2017,2017
+2018,Czech Republic,Flourinated polyimides,392099,0,0,2018,2018
+2019,Czech Republic,Flourinated polyimides,392099,0,1,2019,2019
+2020,Czech Republic,Flourinated polyimides,392099,0,1,2020,2020
+2017,Denmark,Flourinated polyimides,392099,.1,3,2017,2017
+2018,Denmark,Flourinated polyimides,392099,.3,6,2018,2018
+2019,Denmark,Flourinated polyimides,392099,2.3,21,2019,2019
+2020,Denmark,Flourinated polyimides,392099,8.4,42,2020,2020
+2017,Djibouti,Flourinated polyimides,392099,0,0,2017,2017
+2017,Dominican Republic,Flourinated polyimides,392099,0,0,2017,2017
+2018,Dominican Republic,Flourinated polyimides,392099,0,0,2018,2018
+2019,Dominican Republic,Flourinated polyimides,392099,0,0,2019,2019
+2020,Dominican Republic,Flourinated polyimides,392099,0,0,2020,2020
+2017,Ecuador,Flourinated polyimides,392099,0,0,2017,2017
+2018,Ecuador,Flourinated polyimides,392099,0,0,2018,2018
+2019,Ecuador,Flourinated polyimides,392099,0,0,2019,2019
+2020,Ecuador,Flourinated polyimides,392099,0,0,2020,2020
+2017,Egypt,Flourinated polyimides,392099,0,0,2017,2017
+2018,Egypt,Flourinated polyimides,392099,0,0,2018,2018
+2019,Egypt,Flourinated polyimides,392099,.1,2,2019,2019
+2020,Egypt,Flourinated polyimides,392099,0,0,2020,2020
+2019,El Salvador,Flourinated polyimides,392099,0,0,2019,2019
+2020,El Salvador,Flourinated polyimides,392099,0,0,2020,2020
+2017,Estonia,Flourinated polyimides,392099,0,0,2017,2017
+2018,Estonia,Flourinated polyimides,392099,0,0,2018,2018
+2019,Estonia,Flourinated polyimides,392099,0,0,2019,2019
+2020,Estonia,Flourinated polyimides,392099,0,0,2020,2020
+2019,Ethiopia,Flourinated polyimides,392099,0,0,2019,2019
+2020,Ethiopia,Flourinated polyimides,392099,0,0,2020,2020
+2017,Fiji,Flourinated polyimides,392099,0,0,2017,2017
+2017,Finland,Flourinated polyimides,392099,0,0,2017,2017
+2018,Finland,Flourinated polyimides,392099,.1,0,2018,2018
+2019,Finland,Flourinated polyimides,392099,0,3,2019,2019
+2020,Finland,Flourinated polyimides,392099,.1,15,2020,2020
+2017,France,Flourinated polyimides,392099,9.1,426,2017,2017
+2018,France,Flourinated polyimides,392099,6.2,134,2018,2018
+2019,France,Flourinated polyimides,392099,11.3,297,2019,2019
+2020,France,Flourinated polyimides,392099,9.699999999999999,164,2020,2020
+2020,Gabon,Flourinated polyimides,392099,0,0,2020,2020
+2017,Germany,Flourinated polyimides,392099,424.2,8284,2017,2017
+2018,Germany,Flourinated polyimides,392099,586.6,9127,2018,2018
+2019,Germany,Flourinated polyimides,392099,486.3,9095,2019,2019
+2020,Germany,Flourinated polyimides,392099,301.8,4950,2020,2020
+2017,Ghana,Flourinated polyimides,392099,0,0,2017,2017
+2018,Greece,Flourinated polyimides,392099,.1,10,2018,2018
+2019,Greece,Flourinated polyimides,392099,0,0,2019,2019
+2020,Greece,Flourinated polyimides,392099,0,0,2020,2020
+2017,Grenada,Flourinated polyimides,392099,0,0,2017,2017
+2017,Guam,Flourinated polyimides,392099,0,0,2017,2017
+2018,Guam,Flourinated polyimides,392099,0,0,2018,2018
+2020,Guam,Flourinated polyimides,392099,0,0,2020,2020
+2017,Guatemala,Flourinated polyimides,392099,0,0,2017,2017
+2020,Guatemala,Flourinated polyimides,392099,0,0,2020,2020
+2019,Guinea,Flourinated polyimides,392099,0,0,2019,2019
+2017,Haiti,Flourinated polyimides,392099,0,0,2017,2017
+2017,Honduras,Flourinated polyimides,392099,0,0,2017,2017
+2018,Honduras,Flourinated polyimides,392099,0,0,2018,2018
+2019,Honduras,Flourinated polyimides,392099,0,0,2019,2019
+2017,Hong Kong,Flourinated polyimides,392099,2.2,134,2017,2017
+2018,Hong Kong,Flourinated polyimides,392099,1.1,399,2018,2018
+2019,Hong Kong,Flourinated polyimides,392099,1.4,3687,2019,2019
+2020,Hong Kong,Flourinated polyimides,392099,.7,69,2020,2020
+2017,Hungary,Flourinated polyimides,392099,0,0,2017,2017
+2018,Hungary,Flourinated polyimides,392099,0,0,2018,2018
+2019,Hungary,Flourinated polyimides,392099,0,0,2019,2019
+2020,Hungary,Flourinated polyimides,392099,0,0,2020,2020
+2020,Iceland,Flourinated polyimides,392099,0,27,2020,2020
+2017,India,Flourinated polyimides,392099,28.9,289,2017,2017
+2018,India,Flourinated polyimides,392099,18.4,194,2018,2018
+2019,India,Flourinated polyimides,392099,.6,4,2019,2019
+2020,India,Flourinated polyimides,392099,2.4,90,2020,2020
+2017,Indonesia,Flourinated polyimides,392099,.1,1,2017,2017
+2018,Indonesia,Flourinated polyimides,392099,.2,5,2018,2018
+2019,Indonesia,Flourinated polyimides,392099,.1,0,2019,2019
+2020,Indonesia,Flourinated polyimides,392099,.3,10,2020,2020
+2017,Iran -Islamic Republic of,Flourinated polyimides,392099,0,0,2017,2017
+2018,Iran -Islamic Republic of,Flourinated polyimides,392099,0,0,2018,2018
+2019,Iran -Islamic Republic of,Flourinated polyimides,392099,0,0,2019,2019
+2020,Iran -Islamic Republic of,Flourinated polyimides,392099,0,0,2020,2020
+2018,Iraq,Flourinated polyimides,392099,0,0,2018,2018
+2019,Iraq,Flourinated polyimides,392099,0,0,2019,2019
+2020,Iraq,Flourinated polyimides,392099,0,0,2020,2020
+2017,Ireland,Flourinated polyimides,392099,0,0,2017,2017
+2018,Ireland,Flourinated polyimides,392099,0,0,2018,2018
+2019,Ireland,Flourinated polyimides,392099,0,0,2019,2019
+2020,Ireland,Flourinated polyimides,392099,0,0,2020,2020
+2017,Israel,Flourinated polyimides,392099,2.5,35,2017,2017
+2018,Israel,Flourinated polyimides,392099,0,1,2018,2018
+2019,Israel,Flourinated polyimides,392099,0,2,2019,2019
+2020,Israel,Flourinated polyimides,392099,0,0,2020,2020
+2017,Italy,Flourinated polyimides,392099,113.2,2107,2017,2017
+2018,Italy,Flourinated polyimides,392099,122,2536,2018,2018
+2019,Italy,Flourinated polyimides,392099,75.7,1760,2019,2019
+2020,Italy,Flourinated polyimides,392099,57.2,1394,2020,2020
+2017,Japan,Flourinated polyimides,392099,10299.4,394313,2017,2017
+2018,Japan,Flourinated polyimides,392099,10243,377152,2018,2018
+2019,Japan,Flourinated polyimides,392099,9381.700000000001,393675,2019,2019
+2020,Japan,Flourinated polyimides,392099,9351.200000000001,384043,2020,2020
+2017,Jordan,Flourinated polyimides,392099,0,0,2017,2017
+2017,Kazakhstan,Flourinated polyimides,392099,0,0,2017,2017
+2018,Kazakhstan,Flourinated polyimides,392099,0,0,2018,2018
+2019,Kazakhstan,Flourinated polyimides,392099,0,0,2019,2019
+2017,Kenya,Flourinated polyimides,392099,0,0,2017,2017
+2018,Kenya,Flourinated polyimides,392099,0,0,2018,2018
+2019,Kenya,Flourinated polyimides,392099,0,0,2019,2019
+2020,Kenya,Flourinated polyimides,392099,0,0,2020,2020
+2017,Kuwait,Flourinated polyimides,392099,0,0,2017,2017
+2018,Kuwait,Flourinated polyimides,392099,0,0,2018,2018
+2019,Kuwait,Flourinated polyimides,392099,0,0,2019,2019
+2020,Kuwait,Flourinated polyimides,392099,0,0,2020,2020
+2020,Lao People's Democratic Republic,Flourinated polyimides,392099,0,0,2020,2020
+2018,Latvia,Flourinated polyimides,392099,0,0,2018,2018
+2017,Lebanon,Flourinated polyimides,392099,0,0,2017,2017
+2018,Lebanon,Flourinated polyimides,392099,0,0,2018,2018
+2019,Lebanon,Flourinated polyimides,392099,0,0,2019,2019
+2020,Lithuania,Flourinated polyimides,392099,0,1,2020,2020
+2017,Luxembourg,Flourinated polyimides,392099,.2,11,2017,2017
+2018,Luxembourg,Flourinated polyimides,392099,0,7,2018,2018
+2019,Luxembourg,Flourinated polyimides,392099,0,5,2019,2019
+2020,Luxembourg,Flourinated polyimides,392099,.1,19,2020,2020
+2019,Macao,Flourinated polyimides,392099,0,0,2019,2019
+2020,Madagascar,Flourinated polyimides,392099,0,0,2020,2020
+2017,Malaysia,Flourinated polyimides,392099,199.6,5457,2017,2017
+2018,Malaysia,Flourinated polyimides,392099,124.6,1954,2018,2018
+2019,Malaysia,Flourinated polyimides,392099,52.5,734,2019,2019
+2020,Malaysia,Flourinated polyimides,392099,22.4,700,2020,2020
+2017,Maldives,Flourinated polyimides,392099,0,0,2017,2017
+2017,Mexico,Flourinated polyimides,392099,14,372,2017,2017
+2018,Mexico,Flourinated polyimides,392099,8,299,2018,2018
+2019,Mexico,Flourinated polyimides,392099,5.5,238,2019,2019
+2020,Mexico,Flourinated polyimides,392099,3.1,104,2020,2020
+2017,Mongolia,Flourinated polyimides,392099,0,0,2017,2017
+2018,Mongolia,Flourinated polyimides,392099,0,0,2018,2018
+2019,Mongolia,Flourinated polyimides,392099,0,0,2019,2019
+2020,Mongolia,Flourinated polyimides,392099,0,0,2020,2020
+2017,Morocco,Flourinated polyimides,392099,0,0,2017,2017
+2018,Morocco,Flourinated polyimides,392099,0,0,2018,2018
+2019,Morocco,Flourinated polyimides,392099,0,0,2019,2019
+2020,Morocco,Flourinated polyimides,392099,0,0,2020,2020
+2017,Myanmar,Flourinated polyimides,392099,0,0,2017,2017
+2018,Myanmar,Flourinated polyimides,392099,0,0,2018,2018
+2019,Myanmar,Flourinated polyimides,392099,0,0,2019,2019
+2020,Myanmar,Flourinated polyimides,392099,0,0,2020,2020
+2017,Nepal,Flourinated polyimides,392099,0,0,2017,2017
+2017,Netherlands,Flourinated polyimides,392099,10,50,2017,2017
+2018,Netherlands,Flourinated polyimides,392099,1.7,15,2018,2018
+2019,Netherlands,Flourinated polyimides,392099,2.6,14,2019,2019
+2020,Netherlands,Flourinated polyimides,392099,.1,7,2020,2020
+2017,New Zealand,Flourinated polyimides,392099,0,0,2017,2017
+2018,New Zealand,Flourinated polyimides,392099,0,0,2018,2018
+2019,New Zealand,Flourinated polyimides,392099,0,0,2019,2019
+2020,New Zealand,Flourinated polyimides,392099,.1,1,2020,2020
+2020,Niger,Flourinated polyimides,392099,0,0,2020,2020
+2017,Nigeria,Flourinated polyimides,392099,0,0,2017,2017
+2018,Nigeria,Flourinated polyimides,392099,0,0,2018,2018
+2019,Nigeria,Flourinated polyimides,392099,0,0,2019,2019
+2020,Nigeria,Flourinated polyimides,392099,0,0,2020,2020
+2019,Northern Mariana Islands,Flourinated polyimides,392099,0,0,2019,2019
+2017,Norway,Flourinated polyimides,392099,1.3,41,2017,2017
+2018,Norway,Flourinated polyimides,392099,.7,13,2018,2018
+2019,Norway,Flourinated polyimides,392099,0,0,2019,2019
+2020,Norway,Flourinated polyimides,392099,0,0,2020,2020
+2019,Oman,Flourinated polyimides,392099,0,0,2019,2019
+2017,Pakistan,Flourinated polyimides,392099,0,0,2017,2017
+2018,Pakistan,Flourinated polyimides,392099,0,0,2018,2018
+2019,Pakistan,Flourinated polyimides,392099,0,0,2019,2019
+2020,Pakistan,Flourinated polyimides,392099,0,0,2020,2020
+2017,Panama,Flourinated polyimides,392099,0,0,2017,2017
+2018,Panama,Flourinated polyimides,392099,0,0,2018,2018
+2019,Panama,Flourinated polyimides,392099,0,0,2019,2019
+2020,Panama,Flourinated polyimides,392099,0,0,2020,2020
+2017,Paraguay,Flourinated polyimides,392099,0,0,2017,2017
+2019,Paraguay,Flourinated polyimides,392099,0,0,2019,2019
+2020,Paraguay,Flourinated polyimides,392099,0,0,2020,2020
+2017,Peru,Flourinated polyimides,392099,.1,1,2017,2017
+2018,Peru,Flourinated polyimides,392099,0,0,2018,2018
+2019,Peru,Flourinated polyimides,392099,0,0,2019,2019
+2020,Peru,Flourinated polyimides,392099,.1,0,2020,2020
+2017,Philippines,Flourinated polyimides,392099,.9,212,2017,2017
+2018,Philippines,Flourinated polyimides,392099,0,1,2018,2018
+2019,Philippines,Flourinated polyimides,392099,1.2,18,2019,2019
+2020,Philippines,Flourinated polyimides,392099,0,1,2020,2020
+2017,Poland,Flourinated polyimides,392099,0,2,2017,2017
+2018,Poland,Flourinated polyimides,392099,0,0,2018,2018
+2019,Poland,Flourinated polyimides,392099,6.3,55,2019,2019
+2020,Poland,Flourinated polyimides,392099,0,1,2020,2020
+2017,Portugal,Flourinated polyimides,392099,0,0,2017,2017
+2018,Portugal,Flourinated polyimides,392099,0,0,2018,2018
+2019,Portugal,Flourinated polyimides,392099,0,0,2019,2019
+2020,Portugal,Flourinated polyimides,392099,0,0,2020,2020
+2017,Qatar,Flourinated polyimides,392099,0,0,2017,2017
+2018,Qatar,Flourinated polyimides,392099,0,0,2018,2018
+2019,Qatar,Flourinated polyimides,392099,0,0,2019,2019
+2020,Qatar,Flourinated polyimides,392099,0,0,2020,2020
+2017,Romania,Flourinated polyimides,392099,0,0,2017,2017
+2018,Romania,Flourinated polyimides,392099,0,0,2018,2018
+2019,Romania,Flourinated polyimides,392099,0,0,2019,2019
+2020,Romania,Flourinated polyimides,392099,0,0,2020,2020
+2017,Russian Federation,Flourinated polyimides,392099,0,0,2017,2017
+2018,Russian Federation,Flourinated polyimides,392099,.1,1,2018,2018
+2019,Russian Federation,Flourinated polyimides,392099,0,0,2019,2019
+2020,Russian Federation,Flourinated polyimides,392099,.1,6,2020,2020
+2017,Saudi Arabia,Flourinated polyimides,392099,0,0,2017,2017
+2018,Saudi Arabia,Flourinated polyimides,392099,0,0,2018,2018
+2019,Saudi Arabia,Flourinated polyimides,392099,0,0,2019,2019
+2020,Saudi Arabia,Flourinated polyimides,392099,0,0,2020,2020
+2020,Senegal,Flourinated polyimides,392099,0,0,2020,2020
+2018,Serbia,Flourinated polyimides,392099,0,0,2018,2018
+2019,Serbia,Flourinated polyimides,392099,0,0,2019,2019
+2020,Serbia,Flourinated polyimides,392099,0,0,2020,2020
+2017,Singapore,Flourinated polyimides,392099,2.7,758,2017,2017
+2018,Singapore,Flourinated polyimides,392099,1.5,859,2018,2018
+2019,Singapore,Flourinated polyimides,392099,1.9,1568,2019,2019
+2020,Singapore,Flourinated polyimides,392099,3.2,3226,2020,2020
+2017,Slovakia,Flourinated polyimides,392099,0,1,2017,2017
+2018,Slovakia,Flourinated polyimides,392099,0,0,2018,2018
+2019,Slovakia,Flourinated polyimides,392099,0,0,2019,2019
+2020,Slovakia,Flourinated polyimides,392099,0,0,2020,2020
+2017,Slovenia,Flourinated polyimides,392099,0,1,2017,2017
+2018,Slovenia,Flourinated polyimides,392099,.1,1,2018,2018
+2019,Slovenia,Flourinated polyimides,392099,0,1,2019,2019
+2020,Slovenia,Flourinated polyimides,392099,0,1,2020,2020
+2017,South Africa,Flourinated polyimides,392099,0,0,2017,2017
+2018,South Africa,Flourinated polyimides,392099,0,0,2018,2018
+2019,South Africa,Flourinated polyimides,392099,0,0,2019,2019
+2020,South Africa,Flourinated polyimides,392099,0,0,2020,2020
+2017,Spain,Flourinated polyimides,392099,.7,56,2017,2017
+2018,Spain,Flourinated polyimides,392099,.4,50,2018,2018
+2019,Spain,Flourinated polyimides,392099,.3,24,2019,2019
+2020,Spain,Flourinated polyimides,392099,.3,22,2020,2020
+2017,Srilanka,Flourinated polyimides,392099,0,0,2017,2017
+2018,Srilanka,Flourinated polyimides,392099,0,0,2018,2018
+2019,Srilanka,Flourinated polyimides,392099,0,0,2019,2019
+2020,Srilanka,Flourinated polyimides,392099,0,0,2020,2020
+2017,Sudan,Flourinated polyimides,392099,0,0,2017,2017
+2018,Sudan,Flourinated polyimides,392099,0,0,2018,2018
+2019,Sudan,Flourinated polyimides,392099,0,0,2019,2019
+2020,Sudan,Flourinated polyimides,392099,0,0,2020,2020
+2017,Sweden,Flourinated polyimides,392099,.5,65,2017,2017
+2018,Sweden,Flourinated polyimides,392099,.6,67,2018,2018
+2019,Sweden,Flourinated polyimides,392099,0,1,2019,2019
+2020,Sweden,Flourinated polyimides,392099,.4,66,2020,2020
+2017,Switzerland,Flourinated polyimides,392099,2.2,61,2017,2017
+2018,Switzerland,Flourinated polyimides,392099,.2,59,2018,2018
+2019,Switzerland,Flourinated polyimides,392099,.6,61,2019,2019
+2020,Switzerland,Flourinated polyimides,392099,.4,61,2020,2020
+2017,Taiwan,Flourinated polyimides,392099,0,0,2017,2017
+2017,Taiwan,Flourinated polyimides,392099,1.9,41,2017,2017
+2017,Taiwan,Flourinated polyimides,392099,513.1,24683,2017,2017
+2018,Taiwan,Flourinated polyimides,392099,0,0,2018,2018
+2018,Taiwan,Flourinated polyimides,392099,0,0,2018,2018
+2018,Taiwan,Flourinated polyimides,392099,2.1,85,2018,2018
+2018,Taiwan,Flourinated polyimides,392099,140.6,4993,2018,2018
+2019,Taiwan,Flourinated polyimides,392099,.1,2,2019,2019
+2019,Taiwan,Flourinated polyimides,392099,7.2,392,2019,2019
+2019,Taiwan,Flourinated polyimides,392099,0,0,2019,2019
+2019,Taiwan,Flourinated polyimides,392099,0,0,2019,2019
+2019,Taiwan,Flourinated polyimides,392099,105.5,2840,2019,2019
+2020,Taiwan,Flourinated polyimides,392099,152.1,4114,2020,2020
+2020,Taiwan,Flourinated polyimides,392099,2.3,28,2020,2020
+2020,Taiwan,Flourinated polyimides,392099,0,0,2020,2020
+2020,Taiwan,Flourinated polyimides,392099,.2,2,2020,2020
+2019,Ukraine,Flourinated polyimides,392099,0,0,2019,2019
+2020,Ukraine,Flourinated polyimides,392099,0,0,2020,2020
+2017,United Arab Emirates,Flourinated polyimides,392099,.8,21,2017,2017
+2018,United Arab Emirates,Flourinated polyimides,392099,.1,1,2018,2018
+2019,United Arab Emirates,Flourinated polyimides,392099,0,1,2019,2019
+2020,United Arab Emirates,Flourinated polyimides,392099,0,0,2020,2020
+2017,United Kingdom,Flourinated polyimides,392099,31,2502,2017,2017
+2018,United Kingdom,Flourinated polyimides,392099,36.8,2280,2018,2018
+2019,United Kingdom,Flourinated polyimides,392099,37.3,2129,2019,2019
+2020,United Kingdom,Flourinated polyimides,392099,70.2,4323,2020,2020
+2017,United States,Flourinated polyimides,392099,893.9,35789,2017,2017
+2018,United States,Flourinated polyimides,392099,833.8,29505,2018,2018
+2019,United States,Flourinated polyimides,392099,844.6,32585,2019,2019
+2020,United States,Flourinated polyimides,392099,947.9,40994,2020,2020
+2017,Uruguay,Flourinated polyimides,392099,0,0,2017,2017
+2018,Uruguay,Flourinated polyimides,392099,0,0,2018,2018
+2019,Uruguay,Flourinated polyimides,392099,0,0,2019,2019
+2017,Uzbekistan,Flourinated polyimides,392099,0,0,2017,2017
+2018,Uzbekistan,Flourinated polyimides,392099,0,0,2018,2018
+2019,Uzbekistan,Flourinated polyimides,392099,0,0,2019,2019
+2020,Uzbekistan,Flourinated polyimides,392099,0,0,2020,2020
+2018,Vanuatu,Flourinated polyimides,392099,0,0,2018,2018
+2019,Venezuela,Flourinated polyimides,392099,0,0,2019,2019
+2020,Venezuela,Flourinated polyimides,392099,0,0,2020,2020
+2017,Viet nam,Flourinated polyimides,392099,802.7,7555,2017,2017
+2018,Viet nam,Flourinated polyimides,392099,803.1,7942,2018,2018
+2019,Viet nam,Flourinated polyimides,392099,717.4,6704,2019,2019
+2020,Viet nam,Flourinated polyimides,392099,645.9,6779,2020,2020
+2018,Zambia,Flourinated polyimides,392099,0,0,2018,2018
+2020,Zambia,Flourinated polyimides,392099,0,0,2020,2020
