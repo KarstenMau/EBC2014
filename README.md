@@ -5,7 +5,7 @@ The datasets in this repository have been created for use by students in their t
 
 # Dataset for CBAM project
 
-The dataset is available in csv-format and can be imported directly into statistical packages like R or Stata, using the file URL. The consists of 12 columns and 3,097 rows. Columns are defined as follows:
+The dataset is available in csv-format and can be imported directly into statistical packages like R or Stata, using the file URL. The dataset consists of 12 columns and 3,097 rows. Columns are defined as follows:
 
 iso3_exp "Exporter ISO3 code"
 
