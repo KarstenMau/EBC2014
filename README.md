@@ -9,16 +9,17 @@ Dataset are available in csv-format and can be imported directly into statistica
 
 time "Period identifier (year or year.month)"
 
+t "Time identifier (continuous)"
+
+year "Year"
+
 partner "Country from which South Korea imports"
 
 commodity "Name of the imported product"
 
 commoditycode "HS code of the imported product"
 
-netweight "weight of imported product (in kg)"
+netweight "weight of imported product (in tons)"
 
-tradevalueus "import value (US dollar)"
+tradevalueus "import value (1,000 US dollar)"
 
-t "Time identifier (continuous)"
-
-year "Year"
