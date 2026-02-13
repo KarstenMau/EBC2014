@@ -9,13 +9,22 @@ The datasets in this repository have been created for use by students in their t
 The dataset is available in csv-format and can be imported directly into statistical packages like R or Stata, using the file URL. The dataset consists of 10 columns and 810 rows. Columns are defined as follows:
 
 exporter        "Country Name"
+
 exporter_iso    "Partner ISO"
+
 year            "Year"
+
 GDP             "GDP, bn USD"
+
 N_total         "Total number of Chinese investment projects"
+
 vol_total       "Volume of Chinese investment, bn USD"
+
 N_BRI           "Number of BRI investment projects"
+
 vol_BRI         "Volume of BRI investment, bn USD"
+
 M_jt            "China's imports from country j in year t, bn USD"
+
 M_t             "China's total imports in year t, bn USD"
 
